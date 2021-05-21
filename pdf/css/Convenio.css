@@ -1,0 +1,76 @@
+/* .contenido {
+    text-align: justify;
+    margin: 0px 0px 0px 0px;
+}
+
+.header {
+    margin: 20px 0px 600px 110px;
+    width: 500px;
+}
+
+
+
+.logo_ufps {
+    width: 70px;
+    float: left;
+}
+ */
+
+
+/* 
+
+.pagina {
+    margin: 20px 0px 0px 70px;
+    font-size: 10pt;
+    letter-spacing: 16px;
+    word-spacing: 16px;
+    line-height: 1.3;
+    width: 650px;
+}
+
+
+
+*/
+
+.contenedor_legal {
+    width: auto;
+    padding: 5px 20px 5px 20px;
+    border: #E8D3CE 1px solid;
+    text-align: center;
+}
+
+.legal {
+    font-size: 7px;
+}
+
+.header {
+    width: 475px;
+    margin-top: 20px;
+    margin-left: 90px;
+    text-align: justify;
+    font-family: 'times';
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.paginas {
+    text-align: justify;
+}
+
+.footer {
+    margin-bottom: 20px;
+    margin: auto;
+    margin-right: 50px;
+    font-family: 'times';
+}
+
+.logo_ufps {
+    width: 70px;
+    float: left;
+}
+
+.center {
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+form{
+    /*background-color: #eee;*/
+    margin: 0 auto;
+    /*width: 400px;*/
+    padding: 20px;
+}
+.form-login{
+    width: 400px;
+    }
+
+input{
+    border: solid 0;
+    border-radius: 3px;
+}
+
+input[type=text], input[type=password]{
+    padding: 10px;
+    font-size: 18px;
+    outline: none;
+    width: 100%;
+}
+input[type=submit]{
+    background-color: #dd4b39;
+    color: white;
+    padding: 8px;
+    border: none;
+    width: 100%;
+}
